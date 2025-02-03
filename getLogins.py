@@ -1,11 +1,11 @@
 import requests
 import csv
 
-token = 'rBBl1gxdbI8UahEHr01uP8K3dBy0Igl95yXjf3kf'
+token = ''
 
 groupUrl = 'https://sunkingpaygo.zendesk.com/api/v2/groups'
 
-user = 'ian.kamanda@greenlightplanet.com' + '/rBBl1gxdbI8UahEHr01uP8K3dBy0Igl95yXjf3kf'
+user = ''
 
 userMail = user + token
 
