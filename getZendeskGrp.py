@@ -34,9 +34,9 @@ def getUsersPerGrp(instance, userMail, group_id, token_id):
         print(f"Error: {e}")
 
 
-token_id = 'wqOzDTtFdWiviPfb6BRMbCerCgPU5kFp3IojB8lW'
+token_id = ''
 
-userMail = 'ian.kamanda@greenlightplanet.com' + '/token'
+userMail = ''
 
 logins = getUsersPerGrp('sunkingpaygong', userMail, 24452815, token_id)
 
